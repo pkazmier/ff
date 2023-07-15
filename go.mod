@@ -1,4 +1,4 @@
-module github.com/peterbourgon/ff/v3
+module github.com/pkazmier/ff/v3
 
 go 1.18
 
